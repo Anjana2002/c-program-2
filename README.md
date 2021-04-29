@@ -7,4 +7,6 @@
 3)***transpose.c:-***
              Write a program to print the transpose of a matrix.<br />
              <br />
-4)
+4)***matrixsum.c:-***
+              Write a program to find the sum of two matrix.<br />
+              <br />
