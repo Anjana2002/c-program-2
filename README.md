@@ -24,7 +24,6 @@
 7)***descending.c:-***
                 Write a program to accept n numbers and arrange them in descending order.<br />
                 <br />
-
  8)***letter.c:-***               
                Write a program in C to separate the individual characters from a string.<br />
                <br />
