@@ -1,4 +1,4 @@
-//palindrome words
+//reversing words
 #include<stdio.h>
 void main()
 {
@@ -7,6 +7,7 @@ void main()
   printf("\n*****************\n" );
   printf("Enter a word: ");
   scanf("%s",a);
+  //counting how many letters
   for(i=0;a[i]!='\0';i++)
   {
     length++;
