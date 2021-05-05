@@ -27,3 +27,5 @@
  8)***letter.c:-***               
                Write a program in C to separate the individual characters from a string.<br />
                <br />
+9)***reverseword.c:-***
+               Write a program to print the reverse of the word.<br />
