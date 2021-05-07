@@ -1,6 +1,6 @@
 //arranging no in descending order
 #include<stdio.h>
-void main()
+int main()
 {
   int n,i,a[10],j,b;
   printf("\n");
