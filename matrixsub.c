@@ -1,6 +1,6 @@
 //subtraction of matrix
 #include<stdio.h>
-void main()
+int main()
 {
   int a[10][10],b[10][10],m,n,i,j,sub[10][10];
   printf("Enter the order of two matrix: ");
