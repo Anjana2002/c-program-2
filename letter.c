@@ -1,6 +1,6 @@
 //to separate the individual letters from a word
 #include<stdio.h>
-void main()
+int main()
 {
   char a[10];
   int i;
