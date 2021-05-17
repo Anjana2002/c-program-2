@@ -33,6 +33,10 @@
 10)***leapyear.c:-***
                A year is entered through the keyboard. Write a program to determine whether the year is leap year or not. Use logical operators && and ||.<br />
                <br />
-11)***largenum.c:-***
+11)***leapyear1.c:-***
+                  Write a program using conditional operator to determine whether a year entered through the keyboardis a leap year or not.<br />
+                  <br />
+
+12)***largenum.c:-***
                Using the Conditional operator, write a program to determine the largest among three numbers.<br />
                <br />
