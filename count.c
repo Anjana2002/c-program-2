@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-  int a[50],n,i,j,pos=0,neg=0,zero=0;
+  int a[100],n,i,j,pos=0,neg=0,zero=0;
   printf("\nHow many numbers you want to enter?  ");
   scanf("%d",&n);
   printf("Enter the numbers: ");
