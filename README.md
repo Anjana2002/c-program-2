@@ -42,5 +42,7 @@
 13)***count.c:-***
                  Write a program to enter numbers till the user wants. At the end, it should display the count of positive, negative and zeros entered.<br />
                  <br />
-      
+14)***range.c:-***
+                 Write a program to find the range of a set of numbers entered through the keyboard. Range is the difference between the smallest and biggest number in the list.<br />
+                  <br />
 
