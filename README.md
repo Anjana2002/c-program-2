@@ -35,13 +35,12 @@
                <br />
 11)***leapyear1.c:-***
                   Write a program using conditional operator to determine whether a year entered through the keyboardis a leap year or not.<br />
-                  <br />
-12)***count.c:-***
-                 Write a program to enter numbers till the user wants. At the end, it should display the count of positive, negative and zeros entered.<br />
-                 <br />
-
-                  
-
+                  <br />               
 12)***largenum.c:-***
                Using the Conditional operator, write a program to determine the largest among three numbers.<br />
                <br />
+13)***count.c:-***
+                 Write a program to enter numbers till the user wants. At the end, it should display the count of positive, negative and zeros entered.<br />
+                 <br />
+      
+
