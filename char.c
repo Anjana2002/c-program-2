@@ -1,11 +1,11 @@
 #include<stdio.h>
 int main()
 {
-    char c;
+    char a;
     int asci;
     printf("\nEnter a character: ");
-    scanf("%c",&c);
-    asci=c;
+    scanf("%c",&a);
+    asci=a;
     if(asci>=65 && asci<=90)
     {
       printf("This is a capital letter\n\n");
