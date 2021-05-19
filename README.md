@@ -45,4 +45,23 @@
 14)***range.c:-***
                  Write a program to find the range of a set of numbers entered through the keyboard. Range is the difference between the smallest and biggest number in the list.<br />
                   <br />
+15)***char.c:-***
+                 If a character is entered through the keyboard, write a program to determine whether the character is a capital letter, small letter, a digit or a 	special symbol.<br />
+	
+Characters<br />
+ASCII Values<br />
+A-Z<br />
+65-90<br />
+a-z<br />
+97-122<br />
+0-9<br />
+48-57<br />
+Special symbols<br />
+0-47, 58-64, 91-96, 123-127<br />
+           <br />
 
+
+
+
+
+                 
