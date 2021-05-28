@@ -60,7 +60,9 @@ Special symbols<br />
 0-47, 58-64, 91-96, 123-127<br />
            <br />
 
-
+16)***asci:-***
+          Write a program to print all ASCII values and their equivalent characters using a while loop.<br />
+	  <br />
 
 
 
