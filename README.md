@@ -42,10 +42,8 @@
 13)***count.c:-***
                  Write a program to enter numbers till the user wants. At the end, it should display the count of positive, negative and zeros entered.<br />
                  <br />
-14)***range.c:-***
-                 Write a program to find the range of a set of numbers entered through the keyboard. Range is the difference between the smallest and biggest number in the list.<br />
-                  <br />
-15)***char.c:-***
+
+14)***char.c:-***
                  If a character is entered through the keyboard, write a program to determine whether the character is a capital letter, small letter, a digit or a 	special symbol.<br />
 	
 Characters<br />
@@ -60,7 +58,7 @@ Special symbols<br />
 0-47, 58-64, 91-96, 123-127<br />
            <br />
 
-16)***asci:-***
+15)***asci:-***
           Write a program to print all ASCII values and their equivalent characters using a while loop.<br />
 	  <br />
 
