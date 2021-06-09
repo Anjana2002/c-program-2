@@ -61,7 +61,12 @@ Special symbols<br />
 15)***asci:-***
           Write a program to print all ASCII values and their equivalent characters using a while loop.<br />
 	  <br />
-
+16)***factfun.c:-***
+          Find the factorial of a number using functions.<br />
+	  <br />
+17)***fibofun.c:-***
+          Print the fibonacci series using functions.<br />
+	  <br />
 
 
                  
