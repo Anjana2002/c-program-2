@@ -73,6 +73,13 @@ Special symbols<br />
 &nbsp; b)If the student gets second class and the number of subjects he failed in is greater than 2, then he does not get any grace. Otherwise the grace is 4 marks per subject.<br />
 &nbsp; c)If the student gets third class and the number of subjects he failed in is greater than 1, then he does not get any grace. Otherwise the grace is of 5 marks.<br/>
 <br/>
-
+19)***menu.c:-***
+           Write a menu driven program which has the following options<br />
+&nbsp; &nbsp; &nbsp; a)Factorial of a number<br />
+&nbsp; &nbsp; &nbsp; b)Prime or Not<br />
+&nbsp; &nbsp; &nbsp; c)Odd or even<br />
+&nbsp; &nbsp; &nbsp; d)Exit<br />
+	&nbsp; &nbsp; Once a menu item is selected the appropriate action should be taken and once this action is finished, the menu should reappear. Unless the user selects the “Exit” option, the program should continue to run<br />
+<br />
 
                  
