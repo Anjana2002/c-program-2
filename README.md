@@ -69,9 +69,9 @@ Special symbols<br />
 	  <br />
 18)***grace.c:-***
           Write a program to find the grace marks for a student using switch. The user should enter the class obtained by the student and the number of subjects he has failed in. use the following logic:<br />
-a)&nbsp;  If the student gets first class and the number of subjects he failed in is greater than 3, then he does not get any grace. Otherwise the grace is 5 marks per subject.<br />
-b) &nbsp; If the student gets second class and the number of subjects he failed in is greater than 2, then he does not get any grace. Otherwise the grace is 4 marks per subject.<br />
-c)&nbsp;  If the student gets third class and the number of subjects he failed in is greater than 1, then he does not get any grace. Otherwise the grace is of 5 marks.<br/>
+&nbsp; a)If the student gets first class and the number of subjects he failed in is greater than 3, then he does not get any grace. Otherwise the grace is 5 marks per subject.<br />
+&nbsp; b)If the student gets second class and the number of subjects he failed in is greater than 2, then he does not get any grace. Otherwise the grace is 4 marks per subject.<br />
+&nbsp; c)If the student gets third class and the number of subjects he failed in is greater than 1, then he does not get any grace. Otherwise the grace is of 5 marks.<br/>
 <br/>
 
 
