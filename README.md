@@ -82,4 +82,6 @@ Special symbols<br />
 	&nbsp; &nbsp; Once a menu item is selected the appropriate action should be taken and once this action is finished, the menu should reappear. Unless the user selects the “Exit” option, the program should continue to run<br />
 <br />
 
-                 
+ 20)***num.c:-***
+       n numbers are entered from the keyboard into an array. The number to be searched is entered through the keyboard by the user. Write a program to find if the number to be searched is present in the array and if it is present, display the number of times it appears in the array.<br />
+       <br />
