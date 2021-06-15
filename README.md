@@ -85,3 +85,6 @@ Special symbols<br />
  20)***num.c:-***
        n numbers are entered from the keyboard into an array. The number to be searched is entered through the keyboard by the user. Write a program to find if the number to be searched is present in the array and if it is present, display the number of times it appears in the array.<br />
        <br />
+21)***copy.c:-***
+       Write a program to copy the contents of one array into another in reverse order.<br/>
+       <br/>
